@@ -4,10 +4,9 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: https://github.com/signifcant/signifcant.github.io
-  label: All Docs
-  create: all
+- type: document
+  path: https://github.com/signifcant/signifcant.github.io/blob/master/_config.yml
+  label: Config
   match: "**/*"
 - type: jekyll-pages
   label: Pages
