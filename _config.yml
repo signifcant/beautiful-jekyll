@@ -21,7 +21,7 @@ defaults:
   values:
     layout: page
     show-avatar: true
-url: https://username.github.io
+url: https://signifcant.github.io
 baseurl: ''
 description: Blog about my codes and gits!
 navbar-links:
@@ -45,9 +45,9 @@ author:
 social-network-links:
   rss: true
   email: projetoswebmeister@gmail.com
-  facebook: daattali
-  github: significant
-  twitter: daattali
+  facebook: fernando bernardi
+  github: signifcant
+  twitter: luiorange
 share-links-active:
   twitter: true
   facebook: true
