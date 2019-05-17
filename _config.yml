@@ -1,6 +1,6 @@
 ---
-title: My website
-timezone: America/Vancouver
+title: The Code Tavern
+timezone: America/Sao_Paulo
 collections:
   posts:
     title: Posts
@@ -23,14 +23,13 @@ defaults:
     show-avatar: true
 url: https://username.github.io
 baseurl: ''
-description: A virtual proof that name is awesome!
+description: Blog about my codes and gits!
 navbar-links:
   About Me: aboutme
   Resources:
-  - Beautiful Jekyll: http://deanattali.com/beautiful-jekyll/
+  - Tumbler: https://neoxanadu.tumblr.com/
   - Learn markdown: http://www.markdowntutorial.com/
   - GitHub Pages: https://pages.github.com/
-  Author's home: http://deanattali.com
 avatar: "/img/avatar-icon.png"
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
@@ -42,12 +41,12 @@ footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 author:
-  name: Some Person
+  name: Fernando Bernardi
 social-network-links:
   rss: true
-  email: someone@example.com
+  email: projetoswebmeister@gmail.com
   facebook: daattali
-  github: daattali
+  github: significant
   twitter: daattali
 share-links-active:
   twitter: true
