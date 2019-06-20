@@ -55,12 +55,12 @@ share-links-active:
   linkedin: true
 url-pretty: MyWebsite.com
 staticman:
-  repository:
-  branch:
-  endpoint:
+  repository: 
+  branch: 
+  endpoint: 
   reCaptcha:
-    siteKey:
-    secret:
+    siteKey: 
+    secret: 
 excerpt_length: 50
 title-separator: "-"
 markdown: kramdown
